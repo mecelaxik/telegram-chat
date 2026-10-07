@@ -35,6 +35,12 @@ npm run dev
 
 Продакшен-сборка: `npm run build`.
 
+## Деплой
+
+Проект развёрнут на Vercel:
+
+https://telegram-chat-liart.vercel.app
+
 ## Как устроено
 
 ```
